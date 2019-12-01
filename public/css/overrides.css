@@ -1,0 +1,16 @@
+.mce-panel {
+	border: solid 1px #f86a00;
+	background-color: #d6e2e8;
+	border-radius: 5px;
+}
+div.mce-edit-area {
+	background-color: #d6e2e8;
+}
+.mce-btn {
+	background-color: #d6e2e8;
+}
+
+.vdp-datepicker * {
+	background-color: #d6e2e8;
+	border: 0px;
+}

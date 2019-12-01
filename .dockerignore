@@ -1,0 +1,5 @@
+vendor
+node_modules
+.env
+bootstrap/cache/config.php
+bootstrap/cache/services.php

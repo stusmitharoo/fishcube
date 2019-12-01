@@ -1,0 +1,22 @@
+
+// Fonts
+@import url(https://fonts.googleapis.com/css?family=Raleway:300,400,600);
+
+// Variables
+@import "variables";
+
+// Bootstrap
+@import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+
+// Sweetalert
+@import "../../../node_modules/sweetalert2/dist/sweetalert2.min.css";
+
+//Croppie
+@import"../../../node_modules/croppie/croppie.css";
+
+//video.js
+@import"../../../node_modules/video.js/dist/video-js.min.css";
+
+//tinymce
+@import"../../../node_modules/tinymce/skins/lightgray/skin.min.css";
+@import"../../../node_modules/tinymce/skins/lightgray/content.min.css";
